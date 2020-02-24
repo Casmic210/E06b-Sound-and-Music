@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Ringer.wav-5efc8a8eeaa75f73901eaf2cc9d47a4a.sample"
+
+[deps]
+
+source_file="res://Assets/Ringer.wav"
+dest_files=[ "res://.import/Ringer.wav-5efc8a8eeaa75f73901eaf2cc9d47a4a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
